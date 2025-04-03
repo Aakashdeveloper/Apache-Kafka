@@ -1,0 +1,7 @@
+<dependencies>
+    <dependency>
+        <groupId>org.apache.kafka</groupId>
+        <artifactId>kafka-clients</artifactId>
+        <version>3.5.1</version> <!-- Use the latest version -->
+    </dependency>
+</dependencies>
