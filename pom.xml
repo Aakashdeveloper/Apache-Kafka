@@ -2,6 +2,6 @@
     <dependency>
         <groupId>org.apache.kafka</groupId>
         <artifactId>kafka-clients</artifactId>
-        <version>36</version> <!-- Use the latest version -->
+        <version>37</version> <!-- Use the latest version -->
     </dependency>
 </dependencies>
